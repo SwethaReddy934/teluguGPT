@@ -1,6 +1,6 @@
 # teluguGPT
-A Python-based project leveraging GPT and Telugu WordNet for transliteration and other NLP tasks.
-
+A Python-based project leveraging GPT and Telugu WordNet for transliteration and other NLP tasks. 
+Inspired by my mother tongue Telugu, I envisioned creating a Telugu version of ChatGPT. This project is the implementation of that idea.
 ## Features
 
 - Utilizes GPT-based techniques for processing text.
