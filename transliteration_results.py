@@ -2,12 +2,6 @@ Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AM
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 ================= RESTART: D:/python_projects/transliterate1.py ================
-Traceback (most recent call last):
-  File "D:/python_projects/transliterate1.py", line 2, in <module>
-    from indic_transliteration import sanscript
-ModuleNotFoundError: No module named 'indic_transliteration'
->>> 
-================= RESTART: D:/python_projects/transliterate1.py ================
 आप सभी का यहान् स्वागत् है।
 >>> 
 ================= RESTART: D:/python_projects/transliterate1.py ================
